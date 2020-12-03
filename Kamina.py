@@ -89,8 +89,8 @@ logo = """
 
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
 
-"""
-lo
+
+
 
 
 
