@@ -51,12 +51,12 @@ def jalan(z):
 #Aaryan:love_hacker
 ##### LOGO #####
 logo = """
-\033[1;92m░██████╗░░█████╗░██╗░██████╗███████╗██████╗░
-\033[1;92m██╔═══██╗██╔══██╗██║██╔════╝██╔════╝██╔══██╗
-\033[1;92m██║██╗██║███████║██║╚█████╗░█████╗░░██████╔╝
-\033[1;92m╚██████╔╝██╔══██║██║░╚═══██╗██╔══╝░░██╔══██╗
-\033[1;92m░╚═██╔═╝░██║░░██║██║██████╔╝███████╗██║░░██║
-\033[1;92m░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝
+\033[1;92m░ααяуαη נнα
+\033[1;92m█คคгץคภ ןђค
+\033[1;92m█ＡＡＲＹＡＮ ＪＨＡ
+\033[1;92m╚ⒶⒶⓇⓎⒶⓃ ⒿⒽⒶ
+\033[1;92m░AARYAN JHA
+\033[1;92mᎪᎪᎡYᎪN JᎻᎪ
 \033[1;94m_____________|_____|_____|_________|____|______|______|__|_|_|______|_____||
 \033[1;97mI L 1 K 3 H 4 T T 3 R S
 \033[1;91m░░░░▓
@@ -183,7 +183,7 @@ jalan("\033[1;91m┃███████┃")
 jalan("\033[1;91m┃         ○        ┃")
 jalan("\033[1;91m╰━━━━━━━╯")
 jalan("\033[1;94m----------------T00L UPDATE DONE BY AARYAN-------")
-print "\033[1;95m-----------\033[1;93mTech Qaiser-------------"
+print "\033[1;95m-----------\033[1;93mααяуαи-------------"
 
 CorrectUsername = "aaryan"
 CorrectPassword = "aaryan"
@@ -194,7 +194,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;916m[Key] \x1b[1;95mTool Password \x1b[1;91m»» \x1b[1;91m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:love_hacker
+            print "Logged in successfully as " + username #ααяуαи:love_hacker
 	    time.sleep(2)
             loop = 'false'
         else:
