@@ -162,7 +162,7 @@ def lisensi():
 	####login#########
 def login():
 	os.system('clear')
-	print logo11
+	
 	print "1.\x1b[1;95mLogin  Facebook  "
         time.sleep(0.05)
         print "2.\x1b[1;95mWhat is acces Token How To Get Acces Token Free"
